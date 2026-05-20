@@ -1,5 +1,5 @@
 /* =========================================
-   PLAYGROUND 2 - REGISTROS ADICIONALES (11-50)
+   PLAYGROUND 2 - REGISTROS 
    MONGODB - TAXONOMY PROJECT
    ========================================= */
  
